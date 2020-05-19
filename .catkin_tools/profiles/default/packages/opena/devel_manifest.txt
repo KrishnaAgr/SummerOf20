@@ -1,0 +1,21 @@
+opena
+/home/kranky/finale/devel/.private/opena/cmake.lock /home/kranky/finale/devel/./cmake.lock
+/home/kranky/finale/devel/.private/opena/lib/opena/detector_node /home/kranky/finale/devel/lib/opena/detector_node
+/home/kranky/finale/devel/.private/opena/lib/pkgconfig/opena.pc /home/kranky/finale/devel/lib/pkgconfig/opena.pc
+/home/kranky/finale/devel/.private/opena/lib/python2.7/dist-packages/opena/__init__.py /home/kranky/finale/devel/lib/python2.7/dist-packages/opena/__init__.py
+/home/kranky/finale/devel/.private/opena/lib/python2.7/dist-packages/opena/msg/__init__.py /home/kranky/finale/devel/lib/python2.7/dist-packages/opena/msg/__init__.py
+/home/kranky/finale/devel/.private/opena/lib/python2.7/dist-packages/opena/msg/_Centre.py /home/kranky/finale/devel/lib/python2.7/dist-packages/opena/msg/_Centre.py
+/home/kranky/finale/devel/.private/opena/share/opena/cmake/openaConfig.cmake /home/kranky/finale/devel/share/opena/cmake/openaConfig.cmake
+/home/kranky/finale/devel/.private/opena/share/opena/cmake/opena-msg-extras.cmake /home/kranky/finale/devel/share/opena/cmake/opena-msg-extras.cmake
+/home/kranky/finale/devel/.private/opena/share/opena/cmake/openaConfig-version.cmake /home/kranky/finale/devel/share/opena/cmake/openaConfig-version.cmake
+/home/kranky/finale/devel/.private/opena/share/opena/cmake/opena-msg-paths.cmake /home/kranky/finale/devel/share/opena/cmake/opena-msg-paths.cmake
+/home/kranky/finale/devel/.private/opena/share/gennodejs/ros/opena/_index.js /home/kranky/finale/devel/share/gennodejs/ros/opena/_index.js
+/home/kranky/finale/devel/.private/opena/share/gennodejs/ros/opena/msg/_index.js /home/kranky/finale/devel/share/gennodejs/ros/opena/msg/_index.js
+/home/kranky/finale/devel/.private/opena/share/gennodejs/ros/opena/msg/Centre.js /home/kranky/finale/devel/share/gennodejs/ros/opena/msg/Centre.js
+/home/kranky/finale/devel/.private/opena/share/roseus/ros/opena/manifest.l /home/kranky/finale/devel/share/roseus/ros/opena/manifest.l
+/home/kranky/finale/devel/.private/opena/share/roseus/ros/opena/msg/Centre.l /home/kranky/finale/devel/share/roseus/ros/opena/msg/Centre.l
+/home/kranky/finale/devel/.private/opena/share/common-lisp/ros/opena/msg/Centre.lisp /home/kranky/finale/devel/share/common-lisp/ros/opena/msg/Centre.lisp
+/home/kranky/finale/devel/.private/opena/share/common-lisp/ros/opena/msg/_package.lisp /home/kranky/finale/devel/share/common-lisp/ros/opena/msg/_package.lisp
+/home/kranky/finale/devel/.private/opena/share/common-lisp/ros/opena/msg/opena-msg.asd /home/kranky/finale/devel/share/common-lisp/ros/opena/msg/opena-msg.asd
+/home/kranky/finale/devel/.private/opena/share/common-lisp/ros/opena/msg/_package_Centre.lisp /home/kranky/finale/devel/share/common-lisp/ros/opena/msg/_package_Centre.lisp
+/home/kranky/finale/devel/.private/opena/include/opena/Centre.h /home/kranky/finale/devel/include/opena/Centre.h

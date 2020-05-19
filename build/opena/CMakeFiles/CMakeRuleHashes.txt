@@ -1,2 +1,15 @@
 # Hashes of file build rules.
+f277cdd0dd14a8e3a566b6c56f0c494f /home/kranky/finale/devel/.private/opena/include/opena/Centre.h
+88fd93326403346ef52c3e8b541a2fe5 /home/kranky/finale/devel/.private/opena/lib/python2.7/dist-packages/opena/msg/_Centre.py
+27c474f21ba01df67e2bedcef6ae1ffd /home/kranky/finale/devel/.private/opena/lib/python2.7/dist-packages/opena/msg/__init__.py
+9a99303c0c786251a294176e0b5cb34f /home/kranky/finale/devel/.private/opena/share/common-lisp/ros/opena/msg/Centre.lisp
+4c240f8252afe4ccd14c4923c1b79320 /home/kranky/finale/devel/.private/opena/share/gennodejs/ros/opena/msg/Centre.js
+6469ffae17b07e9d8d00e33f74ad5550 /home/kranky/finale/devel/.private/opena/share/roseus/ros/opena/manifest.l
+cb3b121df5ad61325ef167e45a7fd98c /home/kranky/finale/devel/.private/opena/share/roseus/ros/opena/msg/Centre.l
+81b3fec469924399cda4a66eaee44338 CMakeFiles/_opena_generate_messages_check_deps_Centre
 41e240d16a9f8c318b5b6c676330973d CMakeFiles/clean_test_results
+826c345c12efb5ec56445922228b6070 CMakeFiles/opena_generate_messages_cpp
+826c345c12efb5ec56445922228b6070 CMakeFiles/opena_generate_messages_eus
+826c345c12efb5ec56445922228b6070 CMakeFiles/opena_generate_messages_lisp
+826c345c12efb5ec56445922228b6070 CMakeFiles/opena_generate_messages_nodejs
+826c345c12efb5ec56445922228b6070 CMakeFiles/opena_generate_messages_py

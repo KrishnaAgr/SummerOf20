@@ -1,0 +1,1 @@
+/home/kranky/finale/devel/.private/opena/share/opena/cmake/openaConfig-version.cmake

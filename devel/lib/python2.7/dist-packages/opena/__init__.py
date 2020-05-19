@@ -1,0 +1,1 @@
+/home/kranky/finale/devel/.private/opena/lib/python2.7/dist-packages/opena/__init__.py

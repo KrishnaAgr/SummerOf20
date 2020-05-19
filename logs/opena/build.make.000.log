@@ -1,56 +1,77 @@
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target _opena_generate_messages_check_deps_Centre[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _opena_generate_messages_check_deps_Centre
+[  0%] Built target geometry_msgs_generate_messages_py
 [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target opena_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[ 11%] [34m[1mGenerating C++ code from opena/Centre.msg[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
-Built target rosgraph_msgs_generate_messages_nodejs
-Built target std_msgs_generate_messages_nodejs
-Built target rosgraph_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
-Built target rosgraph_msgs_generate_messages_py
-[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
-Built target rosgraph_msgs_generate_messages_cpp
-Built target rosgraph_msgs_generate_messages_eus
-Built target roscpp_generate_messages_py
-[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
-Built target roscpp_generate_messages_lisp
-Built target sensor_msgs_generate_messages_lisp
-Built target roscpp_generate_messages_eus
-Built target geometry_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
-Built target sensor_msgs_generate_messages_eus
-Built target sensor_msgs_generate_messages_cpp
-Built target geometry_msgs_generate_messages_eus
-Built target sensor_msgs_generate_messages_py
-[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
-Built target roscpp_generate_messages_cpp
-[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
-Built target geometry_msgs_generate_messages_cpp
-Built target std_msgs_generate_messages_cpp
-Built target sensor_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
-Built target geometry_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
-Built target std_msgs_generate_messages_py
-[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
-Built target geometry_msgs_generate_messages_py
-Built target roscpp_generate_messages_nodejs
-Built target std_msgs_generate_messages_eus
-[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
-Built target std_msgs_generate_messages_lisp
+[ 11%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 11%] Built target rosgraph_msgs_generate_messages_lisp
+[ 11%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target opena_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[35m[1mScanning dependencies of target opena_generate_messages_lisp[0m
+[ 22%] [34m[1mGenerating EusLisp code from opena/Centre.msg[0m
+[ 22%] Built target _catkin_empty_exported_target
+[ 33%] [34m[1mGenerating Lisp code from opena/Centre.msg[0m
+[35m[1mScanning dependencies of target opena_generate_messages_nodejs[0m
+[ 44%] [34m[1mGenerating Javascript code from opena/Centre.msg[0m
+[ 44%] Built target opena_generate_messages_lisp
+[ 55%] [34m[1mGenerating EusLisp manifest code for opena[0m
+[35m[1mScanning dependencies of target opena_generate_messages_py[0m
+[ 66%] [34m[1mGenerating Python from MSG opena/Centre[0m
+[ 66%] Built target opena_generate_messages_nodejs
+[ 66%] Built target opena_generate_messages_cpp
+[ 77%] [34m[1mGenerating Python msg __init__.py for opena[0m
+[ 77%] Built target opena_generate_messages_py
+[ 77%] Built target opena_generate_messages_eus
+[35m[1mScanning dependencies of target opena_generate_messages[0m
 [35m[1mScanning dependencies of target detector_node[0m
-make[2]: *** No rule to make target 'CMakeFiles/detector_node.dir/build'.  Stop.
-CMakeFiles/Makefile2:763: recipe for target 'CMakeFiles/detector_node.dir/all' failed
-make[1]: *** [CMakeFiles/detector_node.dir/all] Error 2
-Makefile:138: recipe for target 'all' failed
-make: *** [all] Error 2
+[ 77%] Built target opena_generate_messages
+[ 88%] [32mBuilding CXX object CMakeFiles/detector_node.dir/src/image_converter.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/kranky/finale/devel/.private/opena/lib/opena/detector_node[0m
+[100%] Built target detector_node

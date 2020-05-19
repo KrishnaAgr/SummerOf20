@@ -1,0 +1,1 @@
+/home/kranky/finale/devel/.private/opena/share/gennodejs/ros/opena/_index.js

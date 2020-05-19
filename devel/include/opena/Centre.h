@@ -1,0 +1,1 @@
+/home/kranky/finale/devel/.private/opena/include/opena/Centre.h

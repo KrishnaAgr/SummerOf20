@@ -1,0 +1,1 @@
+/home/kranky/finale/devel/.private/opena/share/common-lisp/ros/opena/msg/opena-msg.asd

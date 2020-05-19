@@ -1,0 +1,1 @@
+/home/kranky/finale/devel/.private/opena/share/roseus/ros/opena/manifest.l

@@ -177,7 +177,7 @@ foreach(library ${libraries})
   endif()
 endforeach()
 
-set(opena_EXPORTED_TARGETS "")
+set(opena_EXPORTED_TARGETS "opena_generate_messages_cpp;opena_generate_messages_eus;opena_generate_messages_lisp;opena_generate_messages_nodejs;opena_generate_messages_py")
 # create dummy targets for exported code generation targets to make life of users easier
 foreach(t ${opena_EXPORTED_TARGETS})
   if(NOT TARGET ${t})
@@ -185,7 +185,7 @@ foreach(t ${opena_EXPORTED_TARGETS})
   endif()
 endforeach()
 
-set(depends "cv_bridge;image_transport;roscpp;rospy;sensor_msgs;std_msgs")
+set(depends "cv_bridge;image_transport;roscpp;rospy;sensor_msgs;std_msgs;message_generation;message_runtime;catkin_simple")
 foreach(depend ${depends})
   string(REPLACE " " ";" depend_list ${depend})
   # the package name of the dependency must be kept in a unique variable so that it is not overwritten in recursive calls
@@ -214,7 +214,7 @@ foreach(depend ${depends})
   list(APPEND opena_EXPORTED_TARGETS ${${opena_dep}_EXPORTED_TARGETS})
 endforeach()
 
-set(pkg_cfg_extras "")
+set(pkg_cfg_extras "opena-msg-extras.cmake")
 foreach(extra ${pkg_cfg_extras})
   if(NOT IS_ABSOLUTE ${extra})
     set(extra ${opena_DIR}/${extra})

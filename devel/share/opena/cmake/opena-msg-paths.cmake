@@ -1,0 +1,1 @@
+/home/kranky/finale/devel/.private/opena/share/opena/cmake/opena-msg-paths.cmake
