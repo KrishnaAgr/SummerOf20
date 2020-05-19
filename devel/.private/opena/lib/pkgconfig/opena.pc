@@ -1,0 +1,8 @@
+prefix=/home/kranky/finale/devel/.private/opena
+
+Name: opena
+Description: Description of opena
+Version: 0.0.0
+Cflags: -I/home/kranky/finale/src/opena/include
+Libs: -L${prefix}/lib 
+Requires: cv_bridge image_transport roscpp rospy sensor_msgs std_msgs

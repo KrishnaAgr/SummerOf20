@@ -1,0 +1,6 @@
+devel_space: /home/kranky/finale/devel
+install: false
+install_space: /home/kranky/finale/install
+profile: default
+source_space: /home/kranky/finale/src
+workspace: /home/kranky/finale

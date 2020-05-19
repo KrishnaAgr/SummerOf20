@@ -1,0 +1,6 @@
+catkin_simple
+/home/kranky/finale/devel/.private/catkin_simple/cmake.lock /home/kranky/finale/devel/./cmake.lock
+/home/kranky/finale/devel/.private/catkin_simple/lib/pkgconfig/catkin_simple.pc /home/kranky/finale/devel/lib/pkgconfig/catkin_simple.pc
+/home/kranky/finale/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simple-extras.cmake /home/kranky/finale/devel/share/catkin_simple/cmake/catkin_simple-extras.cmake
+/home/kranky/finale/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake /home/kranky/finale/devel/share/catkin_simple/cmake/catkin_simpleConfig-version.cmake
+/home/kranky/finale/devel/.private/catkin_simple/share/catkin_simple/cmake/catkin_simpleConfig.cmake /home/kranky/finale/devel/share/catkin_simple/cmake/catkin_simpleConfig.cmake
